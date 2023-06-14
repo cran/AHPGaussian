@@ -1,0 +1,11 @@
+60b3f0e29c3481befed9ad5aa8b081ed *DESCRIPTION
+5558f1960872ada52ddcb12534516c4a *NAMESPACE
+95c90eedb050d830d73e032a21fdd585 *R/AHPGaussian-class.R
+853be0347adf1cf187cb74af28778e87 *R/ahpgaussian.R
+03caa77d1f3c0959e34478eca04872db *R/globals.R
+7004733a2b3d0045c88b8b62fc80d0ab *README.md
+08ebef72f238de6f70f73e51b0f7a1dd *data/warships.rda
+45731cd921fa68fb7317768e2788271b *inst/WORDLIST
+388bb08d8944421c59ab3ddb62b1ffc1 *man/ahpgaussian.Rd
+3fe7f0543497c09d8113f42154ca610a *man/warships.Rd
+332173f20d20942c02019350ea4dcadc *tests/spelling.R
