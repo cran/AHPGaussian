@@ -1,5 +1,6 @@
 \name{ahpgaussian}
 \alias{ahpgaussian}
+\alias{ahpgaussian.default}
 \title{New Multicriteria Method: AHPGaussian}
 
 \description{

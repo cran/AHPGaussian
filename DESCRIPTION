@@ -1,7 +1,7 @@
 Package: AHPGaussian
 Type: Package
 Title: New Multicriteria Method: AHPGaussian
-Version: 0.1
+Version: 0.1.1
 Date: 2023-06-06
 Authors@R: c(person(given = "Cid Edson",
        family = "Povoas",
@@ -25,8 +25,8 @@ RoxygenNote: 7.2.3
 Suggests: spelling
 Language: en-US
 NeedsCompilation: no
-Packaged: 2023-06-13 19:25:12 UTC; rzo819
+Packaged: 2023-06-14 18:11:51 UTC; rzo819
 Author: Cid Edson Povoas [aut, cre] (<https://orcid.org/0000-0002-0774-1421>),
   Marcos dos Santos [aut] (<https://orcid.org/0000-0003-1533-5535>)
 Repository: CRAN
-Date/Publication: 2023-06-14 16:32:08 UTC
+Date/Publication: 2023-06-14 23:42:15 UTC
